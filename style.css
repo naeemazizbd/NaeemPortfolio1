@@ -38,11 +38,11 @@ ul li img{
     width: 40px; 
 }
 ul li button{
-    background-color: #920606;
+    background-color: #ff428d;
     border: 0px solid;
     width: 100px;
     height: 40px;
-    border-radius: 10px;
+    border-radius: 6px;
     font-size:16px;
     color: white;
     
