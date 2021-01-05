@@ -1,0 +1,207 @@
+body{
+    font-family: 'Merriweather Sans', sans-serif;
+    max-width: 90%;
+    margin: auto;  
+     
+
+}
+.content1{
+    background-color: #5a0656;
+    height: 60px;
+    margin-top: 0px;
+    
+}
+.my-name{
+    float: left;
+    margin-left: 20px;
+    color:white;
+    font-size: 20px;
+   
+}
+.icon{
+   float: left;
+    margin-left: 20px;
+    width: 50px;
+    margin-top: 8px;
+
+    
+}
+ul{
+     
+    width: auto;
+    height: 60px;
+    margin-left: 300px;
+    margin-right: 20px;
+
+}
+ul li img{
+    width: 40px; 
+}
+ul li button{
+    background-color: #920606;
+    border: 0px solid;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    font-size:16px;
+    color: white;
+    
+
+}
+ul li{
+    display:inline;
+    float: right;
+    padding:10px;
+}
+
+.myName{
+    color: #ff428d;
+}
+
+.half-width{
+    width:40%;
+    float: left;
+    margin: 2%;
+    padding: 1%;
+    
+}
+.half-width img{
+    width: 100%;
+}
+
+.btn1{
+    background-image: linear-gradient(45deg, #ff428d, #bb0b51);
+    border:0px solid;
+    width: 100px;
+    border-radius: 5px;
+    font-size: 16px;
+    float:right;
+    text-decoration:none;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 2px 2px 5px 0px rgb(180, 178, 178);
+    cursor: pointer;
+}
+.btn1:hover{
+    background-image: linear-gradient(45deg, #500724, #3b2e33);
+    color:white;
+
+}
+
+
+
+.experience-area{
+    float: left;
+    background-image:url("images/exp-bg.png"); 
+    background-repeat: no-repeat;
+    background-position: left;
+    float: left;
+
+    
+    
+}
+
+
+.orange-title{
+    color:orange;
+}
+
+.box-area{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    padding:20px; 
+    height: 50%;
+    
+}
+#box1{
+    border-left: 8px solid ;
+    border-image: linear-gradient(45deg, #e78e09, #db0000);
+    border-image-slice: 1;
+       
+}
+#box2{
+    border-left:8px solid; 
+    border-image: linear-gradient(45deg, #0e20c0, #920563);
+    border-image-slice: 1;
+
+}
+
+.btn2{
+    background-image: linear-gradient(45deg, #ff428d, #bb0b51);
+    border:0px solid;
+    width: 130px;
+    height: 60px;
+    border-radius: 5px;
+    font-size: 16px;
+    text-decoration:none;
+    padding: 5px;
+    cursor: pointer;
+    
+    
+}
+.btn2:hover{
+    background-image: linear-gradient(45deg, #500724, #3b2e33);
+    color:white;
+
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+  /* Style the submit button with a specific background color etc */
+  input[type=submit] {
+    background-color: #472cc2;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+  input[type=submit]:hover {
+    background-color: #961c67;
+  }
+  
+  /* Add a background color and some padding around the form */
+  .container {
+    border-radius: 5px;
+    background-color: #ffc5ee;
+    padding: 12px;
+    width: 50%;
+    float: left;
+  }
+  .sec5{
+      float: left;
+      
+  }
+
+  .content6{
+      text-align: center;
+      
+  }
+  .sec2{
+      float: left;
+
+  }
+  .sec3{
+    float: left;
+
+}
+.sec4{
+    float: left;
+    
+
+}
+
+
